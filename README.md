@@ -57,3 +57,7 @@ TO DO:
 There isn't currently a pause button but it may be something to add in the future.
 
 [IDEA] - The ability to write custom messages that will be sent to friends when they message you.
+
+Known Errors:
+
+Some people have issues with going offline when using the bot, I personally have never had this problem. Try restarting the program / looking at active processes in task manager.
