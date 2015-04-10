@@ -29,8 +29,10 @@ Start the (AFK S.BOT.exe) and enter your steam username and password (username i
 name you use to login normally)
 
 ___________________________________________________________________________________
+<b>
 [ATTENTION]: NO PASSWORDS ARE STORED / ACCESSABLE, THEY ARE SIMPLY USED TO LOG INTO
 YOUR STEAM ACCOUNT / PROVIDE ACCESS TO YOUR CLIENT.
+</b>
 ___________________________________________________________________________________
 
 SteamGuard: The first time your use this program you will be prompted for a SteamGuard activation code, this will
